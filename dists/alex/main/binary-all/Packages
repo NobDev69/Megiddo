@@ -1,0 +1,15 @@
+Package: mytermuxpkg
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Your Name <youremail@example.com>
+Description: Simple script to show IP address, date, and time
+ This package installs a script to display the current IP address, date, and time.
+Filename: dists/alex/main/binary-all/mytermuxpkg.deb
+Size: 968
+MD5Sum: 2c657c04ac8c5c597afc707268119dfd
+SHA1: 34d6a1b2a301568857ce84749805fc39bbe37948
+SHA256: d6db5d4937fb49f5a808aeb9240e301bbe585ea380a0b888baa3b2001470ab15
+SHA512: 9aa4d4f904db24c262f9d18fc4d974728dc15bd1c31e38322660cf29c5a63c50b882d80ec2009c07a3be4bd63446ec930211e2cb097a7cfdf011aec497919f16
+
